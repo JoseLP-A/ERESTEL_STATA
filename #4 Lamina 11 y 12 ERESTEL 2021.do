@@ -1,7 +1,7 @@
 
 // Láminas 11 y 12 del PPT2021 ERESTEL:
 
-Fuente: 
+* Fuente: https://repositorio.osiptel.gob.pe/handle/20.500.12630/808
 
 global ruta "XXXXXXXXXXXX"
 cd $ruta
