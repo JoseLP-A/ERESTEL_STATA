@@ -4,7 +4,7 @@ Comparto mi sintaxis en STATA sobre la replica de los indicadores presentados en
 laminas 101, 102 y 103.
 */
 
-Link de la ppt: https://repositorio.osiptel.gob.pe/handle/20.500.12630/808
+* Link de la ppt: https://repositorio.osiptel.gob.pe/handle/20.500.12630/808
 
 
 ** ruta
