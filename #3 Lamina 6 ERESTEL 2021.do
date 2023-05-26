@@ -1,6 +1,6 @@
 // Lámina 6 del PPT2021 ERESTEL:
 
-Fuente: https://repositorio.osiptel.gob.pe/handle/20.500.12630/808
+// Fuente: https://repositorio.osiptel.gob.pe/handle/20.500.12630/808
 
 // PERÚ: EQUIPAMIENTO TIC EN EL HOGAR"
 **************************************
